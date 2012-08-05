@@ -238,6 +238,10 @@ body:before {/* thanks to Maleika (Kohoutec)*/
   overflow: auto;
 }
 
+.article-nagivation .article-link {
+  display: block;
+}
+
 .article-link:hover, .article-link.active {
   background: #078FA2;
 }
